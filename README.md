@@ -5,17 +5,18 @@
 [![Static Badge](https://img.shields.io/badge/Rodolfo-329dec?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodolfo-d-alessandro-rosell%C3%B3-13874a220/)
 
 ### Habilidades Técnicas
-```javascript
-const perfilTecnologico = {
-    lenguajes: ["JavaScript", "Python"],
-    frameworks: {
-        frontend: ["React", "Bootstrap"],
-        backend: ["Node.js", "Flask"],
-    },
-    basesDeDatos: ["SQL", "MySQL", "PostgreSQL"],
-    versionControl: ["Git", "GitHub"],
-    apis: ["REST APIs"],
-    herramientas: ["npm", "Webpack"],
-    metodologia: "Scrum",
-    intereses: ["Desarrollo web", "Desarrollo de aplicaciones", "Inteligencia Artificial"],
-};
+```python
+class DesarrolladorBackend:
+    def __init__(self):
+        self.nombre = "Rodolfo"
+        self.habilidades = {
+            "Lenguajes": ["Python"],
+            "Frameworks": ["Flask"],
+            "Bases de datos": ["SQL (MySQL, PostgreSQL)"],
+            "ORM": ["SQLAlchemy"],  
+            "Control de versiones": ["Git", "GitHub"],
+            "APIs": ["REST"],
+            "Herramientas": ["pip"],
+            "Metodología": "Scrum"
+        }
+        desarrollador = DesarrolladorBackend()
