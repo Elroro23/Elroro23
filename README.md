@@ -15,10 +15,11 @@ const Tecnologías = {
         frontend: ["React.js", "Bootstrap"],
         backend: "Flask",
     },
-    basesDeDatos: ["SQL", "SQLAlchemy", "MySQL", "PostgreSQL"],
+    basesDeDatos: ["SQL", "SQLAlchemy", "PostgreSQL"],
     versionControl: ["Git", "GitHub"],
     apis: ["REST APIs"],
     herramientas: ["npm", "Webpack"],
     metodologia: "Scrum",
     intereses: ["Desarrollo web", "Desarrollo de aplicaciones", "Inteligencia Artificial"],
 };
+
